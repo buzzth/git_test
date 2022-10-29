@@ -1,2 +1,3 @@
-duh hello I am testing za gitty
-lika sambodee
+This is a test to work with git and git hub
+I am slowly getting the grasp of staging and commiting
+Let's see how this goes
